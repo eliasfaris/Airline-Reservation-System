@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Airplane"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"economy"},{"p":"<Unnamed>","l":"first"},{"p":"<Unnamed>","l":"ReservationSystem"}]

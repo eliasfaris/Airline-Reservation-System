@@ -1,0 +1,14 @@
+10A, I, Eli
+10B, I, Eli
+10C, G, sjsu, jake
+10D, G, sjsu, jack
+10E, G, sjsu, phil
+11C, I, Gabe
+12A, G, hey, k
+12B, G, hey, g
+12C, G, hey, c
+12D, G, hey, v
+13A, G, po, h
+13B, G, po, t
+13C, G, po, y
+13D, G, po, r
