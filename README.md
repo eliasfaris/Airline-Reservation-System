@@ -1,5 +1,5 @@
 # Airline Reservation System
- Reservation for an airline system consisting of first & economy class.
+ A console application reservation system for an airline consisting of a fixed number of seats on both first & economy class.
 
 <img width="925" alt="Screenshot 2020-12-19 145234" src="https://user-images.githubusercontent.com/54566871/102701252-e9d32580-4209-11eb-8d52-f3640ad617b9.png">
 
