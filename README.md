@@ -23,3 +23,15 @@ The code will automatically create an empty text file if the text file is not al
  
  ![image](https://user-images.githubusercontent.com/54566871/102701430-a4175c80-420b-11eb-88a8-a72e5115992f.png)
 
+# Class Diagram
+![image](https://user-images.githubusercontent.com/54566871/103383445-984b5600-4aa7-11eb-8659-b29fbb05c6e1.png)
+
+# Sequence Diagram
+![image](https://user-images.githubusercontent.com/54566871/103383508-ccbf1200-4aa7-11eb-9c42-071e6d2922f4.png)
+
+# Use Cases
+![image](https://user-images.githubusercontent.com/54566871/103383528-e95b4a00-4aa7-11eb-8760-f39f13613566.png)
+![image](https://user-images.githubusercontent.com/54566871/103383555-0001a100-4aa8-11eb-9783-ec48250d9f3b.png)
+
+# CRC Cards
+![image](https://user-images.githubusercontent.com/54566871/103383608-32130300-4aa8-11eb-8590-44d45f596eac.png)
